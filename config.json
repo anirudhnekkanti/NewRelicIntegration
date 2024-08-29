@@ -1,0 +1,10 @@
+{
+    "teamA": {
+        "log_file_path": "/path/to/teamA/logfile.log",
+        "keyword": "specific-keyword-teamA"
+    },
+    "teamB": {
+        "log_file_path": "/path/to/teamB/logfile.log",
+        "keyword": "specific-keyword-teamB"
+    }
+}
